@@ -1,6 +1,8 @@
 # pokegotchi
 tamagotchi project by Trevor Lee
-<img width="653" height="872" alt="image" src="https://github.com/user-attachments/assets/10c1f74a-9dd9-41ce-a9bb-382f342c5ca7" />
+
+<img width="427" height="565" alt="image" src="https://github.com/user-attachments/assets/865a6ed3-4dcc-43af-b470-ce85d72b7704" />
+
 
 
 ___
