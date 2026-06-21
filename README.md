@@ -1,5 +1,7 @@
 # pokegotchi
 tamagotchi project by Trevor Lee
+<img width="653" height="872" alt="image" src="https://github.com/user-attachments/assets/10c1f74a-9dd9-41ce-a9bb-382f342c5ca7" />
+
 
 ___
 # What is a Pokegotchi?
