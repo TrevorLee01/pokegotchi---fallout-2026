@@ -9,7 +9,6 @@ ______________
 
 <img width="427" height="565" alt="image" src="https://github.com/user-attachments/assets/865a6ed3-4dcc-43af-b470-ce85d72b7704" />
 
-___
 # What is a Pokegotchi?
 
 This pokegotchi comes with 3 whole pokemons
