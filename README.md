@@ -42,7 +42,7 @@ Here is the pcb.
 
 <img width="1464" height="1286" alt="Screenshot 2026-06-23 235008" src="https://github.com/user-attachments/assets/db260a48-8a27-4d42-9dc1-277e91ec6009" />
 
-<img width="1044" height="934" alt="image" src="https://github.com/user-attachments/assets/8671193c-aeac-45b9-90df-68d1dce6b296" />
+<img width="1258" height="1198" alt="image" src="https://github.com/user-attachments/assets/e147ee8c-a3df-4164-be35-e7b19bc4c39f" />
 
 Here is the CAD.
 
