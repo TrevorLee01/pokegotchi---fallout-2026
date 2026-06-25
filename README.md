@@ -86,31 +86,30 @@ ____
 ____
 # BOM
 
-POKEGOTCHI BILL OF MATERIALS,,,,,
- Total Cost ,,,,,
- $ 44.40 ,,,,,
-,,,,,
-Item, Indiv Costs ,Quanities, Cost ,Links to Order,Additional Notes
-ESP32-S3-WROOM-1-N16R8 MCU, $ 6.76 ,1, $ 6.76 ,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N16R8/16162642,
-TYPE-C-31-M-12 USB-C Receptable, $ 0.19 ,5, $ 0.93 ,https://www.lcsc.com/product-detail/C165948.html?s_z=n_q_korean%2520hroparts%2520elec%2520type-c-31-m-12&spm=wm.fly.bg.1.xh&lcsc_vid=R1cKX1cFEVUKX1ECR1FdBlRQFlAMUwFUElkPUwcDQwAxVlNeRlhZV1dRQ1dZUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D,"4 extra, MOQ 5"
-XHXDZ 1207-P6.5MM Buzzer, $ 0.50 ,10, $ 5.03 ,https://www.aliexpress.us/item/3256810135642750.html,"9 extra, MOQ 10"
-MCP73831T-2ATI/OT Charger, $ 0.76 ,1, $ 0.76 ,https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ATI-OT/964303?s=N4IgTCBcDaILYGMAOB2AzADjQRgCoFowBDAFwEsB6AexJAF0BfIA,
-AP2112K-3.3TRG1 Voltage Regulator, $ 0.25 ,1, $ 0.25 ,https://www.digikey.com/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIYAcwEZlgNYFoDMA6bALgE4DmyIAugL5A,
-1825910-6 Tactile Switch, $ 0.13 ,3, $ 0.39 ,https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536,
-TS-104-T-A Connector, $ 1.06 ,1, $ 1.06 ,https://www.digikey.com/en/products/detail/samtec-inc/TS-104-T-A/1105490,
-M20-9990246 Connector, $ 0.10 ,1, $ 0.10 ,https://www.digikey.com/en/products/detail/harwin-inc/M20-9990246/3728226?s=N4IgTCBcDaILZgAwFoCc7FgCwDYQF0BfIA,
-1825910-6 Tactile Switch, $ 0.13 ,3, $ 0.39 ,https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536,
-RC0805JR-075K1L Resistor, $ 0.10 ,2, $ 0.20 ,https://www.digikey.com/en/products/detail/yageo/RC0805JR-075K1L/728338,
-RC0805FR-072KL Resistor, $ 0.10 ,1, $ 0.10 ,https://www.digikey.com/en/products/detail/yageo/RC0805FR-072KL/727664,
-RC0805FR-0710KL Resistor, $ 0.10 ,3, $ 0.30 ,https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535,
-RC0805FR-074K7L Resistor, $ 0.10 ,2, $ 0.20 ,https://www.digikey.com/en/products/detail/yageo/RC0805FR-074K7L/727929,
-GL12528 LDR, $ 0.31 ,5, $ 1.56 ,https://www.lcsc.com/product-detail/C559386.html?s_z=s_p_GL12528&spm=wm.fly.bg.0.xh&lcsc_vid=Q1kKUVEAQgNbV11QQgQPV1FVRVkLV11TE1hXUwBfEgcxVlNeRVBZUFxXQlhbVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D,"4 extra, MOQ 5"
-CL21B105KAFNNNE Capacitor, $ 0.10 ,1, $ 0.10 ,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724,
-CL21A475KAQNNNE Capacitor, $ 0.11 ,2, $ 0.22 ,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902,
-HS96L03W2C03 Screen, $ 1.87 ,1, $ 1.87 ,https://www.aliexpress.us/item/2251832337475453.html,
-DS3231MZ+TRL Clock, $ 12.68 ,1, $ 12.68 ,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS3231MZ-TRL/2754408,
-Battery, $ 6.20 ,1, $ 6.20 ,https://www.aliexpress.us/item/3256808658204287.html,
-PCB, $ 0.40 ,5, $ 2.00 ,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010,
-PLA Housing, $ -   ,, $ -   ,,
-M3 x 10mm Socket Cap Head Screws, $ 0.75 ,2, $ 1.50 ,https://accu-components.com/us/metric-cap-head-screws/16004-SSCF-M3-10-12-9,
-M3 x 5mm Socket Cap Head Screws, $ 0.45 ,4, $ 1.80 ,https://accu-components.com/us/metric-cap-head-screws/16001-SSCF-M3-5-12-9,4 is cheaper than 3
+**Total Cost: $44.40**
+
+| Item | Individual Cost | Quantity | Cost | Link | Additional Notes |
+|------|----------------|----------|------|------|------------------|
+| ESP32-S3-WROOM-1-N16R8 MCU | $6.76 | 1 | $6.76 | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N16R8/16162642 | |
+| TYPE-C-31-M-12 USB-C Receptacle | $0.19 | 5 | $0.93 | https://www.lcsc.com/product-detail/C165948.html?s_z=n_q_korean%2520hroparts%2520elec%2520type-c-31-m-12&spm=wm.fly.bg.1.xh&lcsc_vid=R1cKX1cFEVUKX1ECR1FdBlRQFlAMUwFUElkPUwcDQwAxVlNeRlhZV1dRQ1dZUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D | 4 extra, MOQ 5 |
+| XHXDZ 1207-P6.5MM Buzzer | $0.50 | 10 | $5.03 | https://www.aliexpress.us/item/3256810135642750.html | 9 extra, MOQ 10 |
+| MCP73831T-2ATI/OT Charger | $0.76 | 1 | $0.76 | https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ATI-OT/964303 | |
+| AP2112K-3.3TRG1 Voltage Regulator | $0.25 | 1 | $0.25 | https://www.digikey.com/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746 | |
+| 1825910-6 Tactile Switch | $0.13 | 3 | $0.39 | https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536 | duplicated entry in source list |
+| TS-104-T-A Connector | $1.06 | 1 | $1.06 | https://www.digikey.com/en/products/detail/samtec-inc/TS-104-T-A/1105490 | |
+| M20-9990246 Connector | $0.10 | 1 | $0.10 | https://www.digikey.com/en/products/detail/harwin-inc/M20-9990246/3728226 | |
+| 1825910-6 Tactile Switch (duplicate) | $0.13 | 3 | $0.39 | https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536 | appears twice in CSV |
+| RC0805JR-075K1L Resistor | $0.10 | 2 | $0.20 | https://www.digikey.com/en/products/detail/yageo/RC0805JR-075K1L/728338 | |
+| RC0805FR-072KL Resistor | $0.10 | 1 | $0.10 | https://www.digikey.com/en/products/detail/yageo/RC0805FR-072KL/727664 | |
+| RC0805FR-0710KL Resistor | $0.10 | 3 | $0.30 | https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535 | |
+| RC0805FR-074K7L Resistor | $0.10 | 2 | $0.20 | https://www.digikey.com/en/products/detail/yageo/RC0805FR-074K7L/727929 | |
+| GL12528 LDR | $0.31 | 5 | $1.56 | https://www.lcsc.com/product-detail/C559386.html?s_z=s_p_GL12528&spm=wm.fly.bg.0.xh&lcsc_vid=Q1kKUVEAQgNbV11QQgQPV1FVRVkLV11TE1hXUwBfEgcxVlNeRVBZUFxXQlhbVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D | 4 extra, MOQ 5 |
+| CL21B105KAFNNNE Capacitor | $0.10 | 1 | $0.10 | https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KAFNNNE/3886724 | |
+| CL21A475KAQNNNE Capacitor | $0.11 | 2 | $0.22 | https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902 | |
+| HS96L03W2C03 Screen | $1.87 | 1 | $1.87 | https://www.aliexpress.us/item/2251832337475453.html | |
+| DS3231MZ+TRL Clock | $12.68 | 1 | $12.68 | https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/DS3231MZ-TRL/2754408 | |
+| Battery | $6.20 | 1 | $6.20 | https://www.aliexpress.us/item/3256808658204287.html | |
+| PCB | $0.40 | 5 | $2.00 | https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010 | |
+| PLA Housing | — | — | — | — | |
+| M3 x 10mm Socket Cap Head Screws | $0.75 | 2 | $1.50 | https://accu-components.com/us/metric-cap-head-screws/16004-SSCF-M3-10-12-9 | |
+| M3 x 5mm Socket Cap Head Screws | $0.45 | 4 | $1.80 | https://accu-components.com/us/metric-cap-head-screws/16001-SSCF-M3-5-12-9 | 4 is cheaper than 3 |
