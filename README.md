@@ -38,9 +38,11 @@ I think it's such a fundamental piece to my development and I want to physically
 
 Here is the pcb.
 
-<img width="1314" height="1044" alt="image" src="https://github.com/user-attachments/assets/44f14266-5284-4762-be09-c1dad54f920e" />
+<img width="1376" height="1164" alt="Screenshot 2026-06-23 234951" src="https://github.com/user-attachments/assets/dbe9ceb8-e015-4b67-b0c9-d66373ea6513" />
 
-<img width="1230" height="1228" alt="image" src="https://github.com/user-attachments/assets/1ccb9e8e-0690-4437-8984-c091fd73aaf8" />
+<img width="1464" height="1286" alt="Screenshot 2026-06-23 235008" src="https://github.com/user-attachments/assets/db260a48-8a27-4d42-9dc1-277e91ec6009" />
+
+<img width="1044" height="934" alt="image" src="https://github.com/user-attachments/assets/8671193c-aeac-45b9-90df-68d1dce6b296" />
 
 Here is the CAD.
 
