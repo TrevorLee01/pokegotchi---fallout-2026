@@ -46,6 +46,7 @@ Here is the pcb.
 
 Here is the CAD.
 
+<img width="1232" height="938" alt="image" src="https://github.com/user-attachments/assets/6f25dcf4-2328-4d60-a6dc-3a127af2aafa" />
 
 
 Here is the render.
