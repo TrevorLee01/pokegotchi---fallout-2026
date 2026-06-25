@@ -69,3 +69,16 @@ The built-in real-time clock (RTC) will help you keep track of the current time,
 Should you pick Eevee, it will evolve into one of five unique Eeveelutions, depending both on your in-game actions and some hidden environmental factors.
 
 Use the buttons on the Pokegotchi to navigate through the menus.
+
+____
+# How to Build Your Own Pokegotchi
+
+1. Print the Case: Download the .step files from the repository and use a 3D printer to print the front case and back case.
+
+2. Solder the Components: Solder all the components to the custom PCB, including the ESP32, RTC IC, light sensor (LDR), display, buttons, and other hardware as specified in the bill of materials.
+
+3. Place the Hardware: Install the PCB inside the printed case using 2 M3x10 screws, and then secure the top of the case using 3 M3x5 screws. Don't forget to place the battery inside its pocket, and connect it to the pinheader.
+
+4. Upload the Firmware: Download the .ino file from the repository and flash Pokegotchi firmware onto the ESP32.
+
+5. Get Ready for an Exciting Journey: Turn on the device, select a Pokémon, and start training your Pokegotchi!
