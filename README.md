@@ -118,9 +118,15 @@ ____
 # Credits
 
 Onshape (CAD design)
+
 GitHub (project hosting + documentation)
+
 KiCad (PCB design workflow)
+
 ESP32 (hardware platform)
+
 Hack Club / Fallout (project opportunity + support)
+
 Pokémon for the original inspiration behind the concept
-Special thanks to Youna Son for help with art.
+
+Special thanks to Youna Son for help with art
