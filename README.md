@@ -24,6 +24,9 @@ The possible 5 includes:
 - glaceon
 - espeon
 
+____
+# Features
+
 The unique features of this tamagotchi are
 - internal clock ( to tell between day and night)
 - LDR (to tell how dark it is)
@@ -35,6 +38,9 @@ ____
 
 Through my entire childhood, I've always been into some type of media related to Pokemon. Despite being it a common hobby or interest, that never discouraged me to discontinue the love I have for Pokemon. 
 I think it's such a fundamental piece to my development and I want to physically manifest the fondness by utilizing the hardware opportunity given by fallout. 
+
+____
+# Pictures‼️
 
 Here is the pcb.
 
