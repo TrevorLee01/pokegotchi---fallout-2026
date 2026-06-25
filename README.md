@@ -3,7 +3,7 @@ tamagotchi project by Trevor Lee
 
 ONSHAPE LINK: https://cad.onshape.com/documents/4788cfc2c41ccbd3b3bb658b/w/c8008663c56e0ba217e7b347/e/ed1d7d4fd3640974190b7d9b?renderMode=0&uiState=6a3ac660f6d661f4c890654a
 
-BOM INCLUDED IN THE FILES! "BOM.csv" or: https://docs.google.com/spreadsheets/d/1ZSV7nk1klidvS7acBAQEKFNUl_y9adzhBfaWMznL6cg/edit?gid=0#gid=0
+BOM INCLUDED IN THE FILES! "BOM.csv", bottom of this README, or: https://docs.google.com/spreadsheets/d/1ZSV7nk1klidvS7acBAQEKFNUl_y9adzhBfaWMznL6cg/edit?gid=0#gid=0
 
 ______________
 
@@ -58,3 +58,14 @@ Here is the CAD.
 Here is the render.
 
 <img width="1554" height="1270" alt="image" src="https://github.com/user-attachments/assets/c0d60905-4331-4f02-bf18-5b1aa977f7fa" />
+
+____
+# How It Works ╰(°▽°)╯
+
+Turn the Pokegotchi on and select one out of three Pokémon that you want to take care of: Snorlax, Solosis, or Eevee.
+
+The built-in real-time clock (RTC) will help you keep track of the current time, enabling the device to know whether it is day or night. In addition, the light-dependent resistor (LDR) will detect how bright the surrounding environment is and make your Pokémon respond accordingly.
+
+Should you pick Eevee, it will evolve into one of five unique Eeveelutions, depending both on your in-game actions and some hidden environmental factors.
+
+Use the buttons on the Pokegotchi to navigate through the menus.
