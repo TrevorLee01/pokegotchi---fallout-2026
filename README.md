@@ -113,3 +113,14 @@ ____
 | PLA Housing | — | — | — | — | |
 | M3 x 10mm Socket Cap Head Screws | $0.75 | 2 | $1.50 | https://accu-components.com/us/metric-cap-head-screws/16004-SSCF-M3-10-12-9 | |
 | M3 x 5mm Socket Cap Head Screws | $0.45 | 4 | $1.80 | https://accu-components.com/us/metric-cap-head-screws/16001-SSCF-M3-5-12-9 | 4 is cheaper than 3 |
+
+____
+# Credits
+
+Onshape (CAD design)
+GitHub (project hosting + documentation)
+KiCad (PCB design workflow)
+ESP32 (hardware platform)
+Hack Club / Fallout (project opportunity + support)
+Pokémon for the original inspiration behind the concept
+Special thanks to Youna Son for help with art.
