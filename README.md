@@ -48,3 +48,4 @@ Here is the CAD.
 
 Here is the render.
 
+<img width="1554" height="1270" alt="image" src="https://github.com/user-attachments/assets/c0d60905-4331-4f02-bf18-5b1aa977f7fa" />
